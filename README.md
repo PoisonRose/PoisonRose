@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello! I'm Lucas Henrique</h1>
-<h3 align="center">A passionate developer and student of computer science from Brazil</h3>
+<h3 align="center">A passionate developer and  computer science student from Brazil</h3>
 
 ##
 - 📫 How to reach me **lucashenrique4848@gmail.com**
