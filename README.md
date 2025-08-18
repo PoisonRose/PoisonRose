@@ -17,7 +17,8 @@
 <p align="left">
 
 <a> [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-henrique-508739209/) </a>
-<a href="https://www.leetcode.com/lucashenrique4848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucashenrique4848" height="30" width="40" /></a>
+
+<a> [![Static Badge](https://img.shields.io/badge/LeetCode-000f1e?style=for-the-badge&logo=leetcode&labelColor=000f1e)](https://www.leetcode.com/lucashenrique4848) </a>
 </p>
 
 ##
